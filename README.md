@@ -5,7 +5,7 @@ This code tries to make automate the whois request for a .gr domain, to https://
 
 The way that does that is to clean up the image using native java and some simple processing, and then to use google tesseract OCR library, to crack the cleaned up image.
 
-This has about 40% success.
+This has about 40% success. The program retries until the request succeeds. On successful run the whois information is printed in the console. 
 
 How
 ===
@@ -15,7 +15,9 @@ For a detailed outline of the method used see the blogpost here: http://nikos.gl
 Compile
 =======
 
-The whole Intellij project is uploaded, so that is it easier to run and edit. Just download Intellij (free) and open the project folder.
+The repository is ~160MB. This is because I include the libraries used. I have not used maven, so that the deployment can be easier by users that don't know maven.
+
+Also, the whole Intellij project is uploaded, including project dir .idea, so that is it easier to run and edit. Just download Intellij (free) and open the project folder.
 
 If you want to build and run manually commands are included below: 
 

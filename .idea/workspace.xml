@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b04e8b1d-c70b-45bd-9c8c-3a0ae0703255" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/image.png" afterPath="$PROJECT_DIR$/image.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modified.png" afterPath="$PROJECT_DIR$/modified.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/captcha/com/tools/forth/Main.class" afterPath="$PROJECT_DIR$/out/production/captcha/com/tools/forth/Main.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/tools/forth/HttpResult.java" afterPath="$PROJECT_DIR$/src/com/tools/forth/HttpResult.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/tools/forth/Main.java" afterPath="$PROJECT_DIR$/src/com/tools/forth/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="captcha.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,15 +25,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider editor-type-id="MultiMarkdownFxPreviewEditor">
             <state />
           </provider>
           <provider selected="true" editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor vertical-scroll-proportion="-0.07037037">
-                <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+              <first_editor vertical-scroll-proportion="0.59266055">
+                <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -59,7 +55,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="captcha.iml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="captcha.iml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/captcha.iml">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
@@ -158,9 +154,9 @@
         <option value="$PROJECT_DIR$/src/HTTP.java" />
         <option value="$PROJECT_DIR$/src/HttpHeader.java" />
         <option value="$PROJECT_DIR$/src/com/tools/forth/HttpHeader.java" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/com/tools/forth/Main.java" />
         <option value="$PROJECT_DIR$/src/com/tools/forth/HttpResult.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -663,7 +659,13 @@
       <option name="project" value="LOCAL" />
       <updated>1454105708568</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Final">
+      <created>1454105893016</created>
+      <option name="number" value="00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1454105893016</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TodoView">
@@ -738,7 +740,8 @@
     <MESSAGE value="Complete example with whois." />
     <MESSAGE value="Comments" />
     <MESSAGE value="README" />
-    <option name="LAST_COMMIT_MESSAGE" value="README" />
+    <MESSAGE value="Final" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1057,20 +1060,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider editor-type-id="MultiMarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor vertical-scroll-proportion="-0.07037037">
-            <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/tools/forth/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1134,6 +1123,20 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="MultiMarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor vertical-scroll-proportion="0.59266055">
+            <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
