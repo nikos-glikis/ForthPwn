@@ -47,7 +47,7 @@ public class HttpResult
     }
 
     /**
-     * Returns cookies from com.tools.forth.HttpResult as browser is sending them.
+     * Returns cookies from the connection in the format same as the browsers is sending them.
      * //TODO clean these a bit.
      * @return
      */
@@ -57,7 +57,6 @@ public class HttpResult
         String cookies = "";
         for (HttpHeader httpHeader : httpHeaders)
         {
-            //cookies.add(httpHeader.getValue());
             cookies += cookies += httpHeader.getValue() +"; ";
         }
         return cookies;

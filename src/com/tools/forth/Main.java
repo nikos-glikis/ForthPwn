@@ -1,14 +1,10 @@
 package com.tools.forth;
 
-
-
 import net.sourceforge.tess4j.Tesseract;
-
 import net.sourceforge.tess4j.TesseractException;
 import org.apache.commons.io.FileUtils;
 import org.jsoup.Jsoup;
 import org.jsoup.examples.HtmlToPlainText;
-
 import javax.imageio.ImageIO;
 import java.awt.*;
 import java.awt.image.BufferedImage;

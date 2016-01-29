@@ -2,80 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b04e8b1d-c70b-45bd-9c8c-3a0ae0703255" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/jsoup-1.8.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/commons-beanutils-1.9.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/commons-io-2.4.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/commons-logging-1.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/ghost4j-1.0.0.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/hamcrest-core-1.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/itext-2.1.7.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/jai_imageio.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/jna.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/jul-to-slf4j-1.7.13.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/junit-4.12.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/lept4j-1.0.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/log4j-1.2.17.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/logback-classic-1.1.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/logback-core-1.1.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/rococoa-core-0.5.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/slf4j-api-1.7.13.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/win32-x86-64/gsdll64.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/win32-x86-64/libtesseract304.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/win32-x86/gsdll32.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/win32-x86/libtesseract304.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/xmlgraphics-commons-1.5.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/tess4j/dist/tess4j-3.0.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modified.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/captcha/com/tools/forth/HTTP.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/captcha/com/tools/forth/HttpHeader.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/captcha/com/tools/forth/HttpHelper.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/captcha/com/tools/forth/HttpRequestInformation.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/captcha/com/tools/forth/HttpResult.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/captcha/com/tools/forth/Main.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/com/tools/forth/HTTP.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/com/tools/forth/HttpHeader.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/com/tools/forth/HttpHelper.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/com/tools/forth/HttpRequestInformation.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/com/tools/forth/HttpResult.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/com/tools/forth/Main.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tessdata/eng.traineddata" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tessdata/osd.traineddata" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tessdata/pdf.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/description.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/MyUtils_1_0_2_jar_with_dependencies.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/commons_beanutils_1_9_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/commons_beanutils_1_9_21.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/jsoup_1_8_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/tess4j_3_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/project-template.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/captcha.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/nblibraries.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/pdfpagecount.ps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/tess4j/dist/README.TXT" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/captcha/com/tools/forth/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/tools/forth/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/tools/forth/HTTP.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/tools/forth/HttpHeader.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/tools/forth/HttpHelper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/tools/forth/HttpRequestInformation.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/tools/forth/HttpResult.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/tools/forth/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tessdata/configs/api_config" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tessdata/configs/digits" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tessdata/configs/hocr" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tessdata/configs/mydigits" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tessdata/pdf.ttx" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LICENSE" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/image.png" afterPath="$PROJECT_DIR$/image.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modified.png" afterPath="$PROJECT_DIR$/modified.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/captcha/com/tools/forth/Main.class" afterPath="$PROJECT_DIR$/out/production/captcha/com/tools/forth/Main.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/tools/forth/HttpResult.java" afterPath="$PROJECT_DIR$/src/com/tools/forth/HttpResult.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/tools/forth/Main.java" afterPath="$PROJECT_DIR$/src/com/tools/forth/Main.java" />
     </list>
     <ignored path="captcha.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -97,7 +29,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider editor-type-id="MultiMarkdownFxPreviewEditor">
             <state />
@@ -127,14 +59,65 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="captcha.iml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/captcha.iml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="HTTP.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/tools/forth/HTTP.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="72" column="41" selection-start-line="72" selection-start-column="41" selection-end-line="72" selection-end-column="41" />
+              <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HttpHeader.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/tools/forth/HttpHeader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="33" column="17" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
               <folding>
-                <element signature="imports" expanded="false" />
+                <element signature="e#488#489#0" expanded="true" />
+                <element signature="e#522#523#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HttpHelper.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/tools/forth/HttpHelper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HttpRequestInformation.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/tools/forth/HttpRequestInformation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HttpResult.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/tools/forth/HttpResult.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="58" column="9" selection-start-line="58" selection-start-column="9" selection-end-line="58" selection-end-column="9" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -143,10 +126,9 @@
         <entry file="file://$PROJECT_DIR$/src/com/tools/forth/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="282" column="0" selection-start-line="282" selection-start-column="0" selection-end-line="282" selection-end-column="0" />
+              <caret line="83" column="13" selection-start-line="83" selection-start-column="13" selection-end-line="83" selection-end-column="13" />
               <folding>
-                <element signature="e#4206#4207#0" expanded="false" />
-                <element signature="e#4246#4247#0" expanded="false" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -176,8 +158,9 @@
         <option value="$PROJECT_DIR$/src/HTTP.java" />
         <option value="$PROJECT_DIR$/src/HttpHeader.java" />
         <option value="$PROJECT_DIR$/src/com/tools/forth/HttpHeader.java" />
-        <option value="$PROJECT_DIR$/src/com/tools/forth/Main.java" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/com/tools/forth/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/tools/forth/HttpResult.java" />
       </list>
     </option>
   </component>
@@ -674,7 +657,13 @@
       <option name="project" value="LOCAL" />
       <updated>1454104470577</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="README">
+      <created>1454105708568</created>
+      <option name="number" value="00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1454105708568</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TodoView">
@@ -697,8 +686,8 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294893" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31952018" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32497275" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31952018" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32497275" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.328541" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32861805" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -763,35 +752,9 @@
     <entry file="file://$PROJECT_DIR$/src/com/tools/forth/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="282" column="0" selection-start-line="282" selection-start-column="0" selection-end-line="282" selection-end-column="0" />
-          <folding>
-            <element signature="e#4206#4207#0" expanded="false" />
-            <element signature="e#4246#4247#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider editor-type-id="MultiMarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor vertical-scroll-proportion="0.0">
-            <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/tools/forth/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#4206#4207#0" expanded="false" />
-            <element signature="e#4246#4247#0" expanded="false" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -806,8 +769,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#4206#4207#0" expanded="false" />
-            <element signature="e#4246#4247#0" expanded="false" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -829,8 +791,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#4206#4207#0" expanded="false" />
-            <element signature="e#4246#4247#0" expanded="false" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -852,8 +813,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
           <folding>
-            <element signature="e#4206#4207#0" expanded="false" />
-            <element signature="e#4246#4247#0" expanded="false" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -870,8 +830,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="120" column="13" selection-start-line="100" selection-start-column="12" selection-end-line="120" selection-end-column="13" />
           <folding>
-            <element signature="e#4206#4207#0" expanded="false" />
-            <element signature="e#4246#4247#0" expanded="false" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -881,8 +840,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="120" column="13" selection-start-line="100" selection-start-column="12" selection-end-line="120" selection-end-column="13" />
           <folding>
-            <element signature="e#4206#4207#0" expanded="false" />
-            <element signature="e#4246#4247#0" expanded="false" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -892,24 +850,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="34" column="38" selection-start-line="34" selection-start-column="38" selection-end-line="34" selection-end-column="38" />
           <folding>
-            <element signature="e#4206#4207#0" expanded="false" />
-            <element signature="e#4246#4247#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/image.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/tools/forth/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="34" column="38" selection-start-line="34" selection-start-column="38" selection-end-line="34" selection-end-column="38" />
-          <folding>
-            <element signature="e#4206#4207#0" expanded="false" />
-            <element signature="e#4246#4247#0" expanded="false" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -924,8 +865,22 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="34" column="38" selection-start-line="34" selection-start-column="38" selection-end-line="34" selection-end-column="38" />
           <folding>
-            <element signature="e#4206#4207#0" expanded="false" />
-            <element signature="e#4246#4247#0" expanded="false" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tools/forth/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="34" column="38" selection-start-line="34" selection-start-column="38" selection-end-line="34" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -984,24 +939,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/tools/forth/HttpHeader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="33" column="17" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/tess4j/dist/README.TXT">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/tools/forth/HttpHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -1111,32 +1052,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/image.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/tools/forth/HTTP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="72" column="41" selection-start-line="72" selection-start-column="41" selection-end-line="72" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/tools/forth/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="282" column="0" selection-start-line="282" selection-start-column="0" selection-end-line="282" selection-end-column="0" />
-          <folding>
-            <element signature="e#4206#4207#0" expanded="false" />
-            <element signature="e#4246#4247#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/modified.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -1153,6 +1068,72 @@
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tools/forth/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="83" column="13" selection-start-line="83" selection-start-column="13" selection-end-line="83" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tools/forth/HTTP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tools/forth/HttpHeader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="33" column="17" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
+          <folding>
+            <element signature="e#488#489#0" expanded="true" />
+            <element signature="e#522#523#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tools/forth/HttpHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tools/forth/HttpRequestInformation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tools/forth/HttpResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="58" column="9" selection-start-line="58" selection-start-column="9" selection-end-line="58" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/captcha.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
