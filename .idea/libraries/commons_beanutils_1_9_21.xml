@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="commons-beanutils-1.9.21">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/lib/commons-beanutils-1.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lib/commons-io-2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lib/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lib/ghost4j-1.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lib/hamcrest-core-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lib/itext-2.1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lib/jai_imageio.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lib/jna.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lib/jul-to-slf4j-1.7.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lib/junit-4.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lib/lept4j-1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lib/log4j-1.2.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lib/logback-classic-1.1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lib/logback-core-1.1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lib/rococoa-core-0.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lib/slf4j-api-1.7.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lib/xmlgraphics-commons-1.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
