@@ -3,12 +3,14 @@ Introduction
 
 This code tries to make automate the whois request for a .gr domain, to https://grweb.ics.forth.gr/public/whois.jsp?lang=en by cracking the given captcha.
 
-The way that does that is to clean up the image using native java and some simple processing, and then to use google tesseract OCR library, to crack the cleaned up image.
-
-This has about 40% success. The program retries until the request succeeds. On successful run the whois information is printed in the console. 
+Forth.gr manages official .gr registry, so its the only reliable place to get information about .gr domains. International whois services have limited results (for example http://whois.domaintools.com/in.gr)
 
 How
 ===
+
+The way that does that is to clean up the image using native java and some simple processing, and then to use google tesseract OCR library, to crack the cleaned up image.
+
+This has about 40% success. The program retries until the request succeeds. On successful run the whois information is printed in the console. 
 
 For a detailed outline of the method used see the blogpost here: http://nikos.glikis.net/hacks/the-forthpwn/ or see the comments in Main.java.
 
