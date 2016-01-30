@@ -21,7 +21,7 @@ The repository is ~160MB. This is because I include the libraries used. I have n
 
 Also, the whole Intellij project is uploaded, including project dir .idea, so that is it easier to run and edit. Just download Intellij (free) and open the project folder.
 
-If you want to build and run manually commands are included below: 
+If you want to build and run manually commands are included below (precompiles classes work on jdk 8): 
 
 Linux:
 
@@ -36,6 +36,8 @@ Run:
 ====
 
 The first argument is the domain you want to lookup.
+
+Again, tested only on jdk 8.
 
 Linux:
 
