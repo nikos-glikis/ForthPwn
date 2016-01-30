@@ -19,7 +19,7 @@ Compile
 
 The repository is ~160MB. This is because I include the libraries used. I have not used maven, so that the deployment can be easier by users that don't know maven.
 
-Also, the whole Intellij project is uploaded, including project dir .idea, so that is it easier to run and edit. Just download Intellij (free) and open the project folder.
+Also, the whole Intellij project is uploaded, including project dir .idea, so that is it easier to run and edit. Just download Intellij (free from https://www.jetbrains.com/idea/download/) and open the project folder. Then just click RUN.
 
 If you want to build and run manually commands are included below (precompiles classes work on jdk 8): 
 
