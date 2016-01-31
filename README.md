@@ -37,7 +37,11 @@ Run:
 
 The first argument is the domain you want to lookup.
 
-Again, tested only on jdk 8.
+Again, tested only on jdk 8. In Ubuntu you need to run
+    
+    apt-get install tesseract-ocr
+
+Windows dlls are included.
 
 Linux:
 
